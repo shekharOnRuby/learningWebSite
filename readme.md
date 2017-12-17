@@ -8,3 +8,5 @@ BootStrap tutorial: https://www.youtube.com/watch?v=gqOEoUR5RHg
 
 
 Handlebars Tutorial: https://www.youtube.com/watch?v=4HuAnM6b2d8
+
+express generator https://expressjs.com/en/starter/generator.html
