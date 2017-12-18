@@ -6,6 +6,7 @@ body {
     background-color: #ffc;
     margin: 20px;
     padding: 0;
+    background: white url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
 }
 
 /* This is a comment, by the way */
@@ -66,3 +67,24 @@ li {
 table {
     background-color: #ccc;
 }
+
+#top {
+    background-color: #ccc;
+    padding: 1em
+}
+
+#top h1 {
+    color: #ff0;
+}
+
+#top p {
+    color: red;
+    font-weight: bold;
+}
+
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
