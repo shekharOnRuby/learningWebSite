@@ -1,0 +1,60 @@
+h1{
+	color: red;
+	text-shadow: 1px 1px 1px yellow;
+	background: linear-gradient(to right, rgba(0,0,0,0.65),rgba(0,0,0,0.26));
+	padding: 3px;
+	text-align: center;
+	box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5),inset -2px -2px 5px rgba(255,255,255,0.5)
+	
+}
+
+
+li {
+	color: green;
+}
+li {
+	text-decoration: underline;
+}
+
+/* The element with the class "first" is bolded */
+.first, .important {
+  font-weight: bold;
+}
+
+/* All the elements with the class "done" are strike through */
+.done {
+  text-decoration: line-through;
+}
+
+p, .base-box{
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0.1),rgba(0,0,0,0.3));
+	padding: 3px 3px 3px 7px;
+	color: yellow;
+}
+
+.warning{
+	background-color: #ff9999;
+	color: blue;
+}
+
+.editor-note{
+	background-color: #9999ff;
+	border-left: 6px solid #333399;
+	color: yellow;
+}
+strong {
+	font-family: cursive;
+}
+#first{
+	text-transform: uppercase;
+	/*background: linear linear-gradient(to right, rgba(0,0,0,0.35),rgba(0,0,0,0.3))*/
+	background-color: goldenrod;
+}
+#second{
+	text-transform: uppercase;
+	background-color: siver;
+}
+#third{
+	text-transform: uppercase;
+	background-color: #CD7F32;
+}
